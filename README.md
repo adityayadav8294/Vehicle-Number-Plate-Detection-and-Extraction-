@@ -18,7 +18,7 @@ Designed for smart surveillance, traffic monitoring, and automated vehicle manag
 
 # 🏗 System Architecture
 
-```
+
           ┌────────────────────┐
           │   Input Video      │
           └─────────┬──────────┘
