@@ -89,7 +89,7 @@ Video → Frame Processing → YOLO Detection → Tracking → Annotation → Ou
 
 ## 📂 Project Structure
 
-```
+
 Vehicle-Number-Plate-Detection-and-Extraction/
 │
 ├── input/                # Add your test video here
