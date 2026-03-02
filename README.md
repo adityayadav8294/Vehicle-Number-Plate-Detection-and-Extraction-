@@ -1,9 +1,7 @@
 # 🚗 Vehicle Number Plate Detection & Extraction System
 
 <p align="center">
-  <video width="850" controls>
-    <source src="assets/demo.mp4" type="video/mp4">
-  </video>
+  <img src="assets/demo.png" width="850" alt="Vehicle Number Plate Detection Demo"/>
 </p>
 
 ---
@@ -54,15 +52,15 @@ Designed for smart surveillance, traffic monitoring, and automated vehicle manag
           │ Output Video       │
           │ (Processed Result) │
           └────────────────────┘
-```
+
 
 ---
 
 # 🔄 Workflow Pipeline
 
-```
+
 Video → Frame Processing → YOLO Detection → Tracking → Annotation → Output
-```
+
 
 ---
 

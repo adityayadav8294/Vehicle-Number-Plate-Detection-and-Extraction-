@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 output_video.avi
 *.pt
+input/*.mp4
+*.avi
